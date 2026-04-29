@@ -1,0 +1,19 @@
+.text1, .text2, .text3 {
+    background-color: rgb(249, 186, 236);
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#idOne {
+    color: blue;
+    font-size: 36px;
+}
+
+.text2 {
+    font-size: 24px;
+}
+
+#idTwo {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
